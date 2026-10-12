@@ -11,7 +11,7 @@ train/val/test folders are pooled and re-split 70/15/15 **by patient ID** to avo
 
 ## Setup
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/gopya3106/Pneumonia-Diagnosis-Detection-and-Localization.git
 cd pneumonia-project
 pip install -r requirements.txt
 ```
@@ -60,7 +60,7 @@ shared separately).
 
 ## Team
 - Member 1: <name, SRN> - data pipeline, training, evaluation
-- Member 2: <name, SRN> - Grad-CAM, demo app, write-up
+- Member 2: Dharshini V [PES1UG24AM428] - Grad-CAM, demo app, write-up
 
 ## Disclaimer
 Educational project only. Not for clinical use.
