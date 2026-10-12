@@ -59,7 +59,7 @@ Figures are in `results/`. The trained weights are `models/best.pt` (not tracked
 shared separately).
 
 ## Team
-- Member 1: <name, SRN> - data pipeline, training, evaluation
+- Member 1: Nakka Gopya [PES1UG24AM107] - data pipeline, training, evaluation
 - Member 2: Dharshini V [PES1UG24AM428] - Grad-CAM, demo app, write-up
 
 ## Disclaimer
